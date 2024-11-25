@@ -5,3 +5,6 @@
 hello = 'Hello, World!'
 print(hello)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
